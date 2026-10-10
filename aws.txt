@@ -1,0 +1,17 @@
+Question #1: 1) Among the nearly 600 applicants for the upcoming August AWS re/Start cohort, why do you believe you deserve to be included in the list of finalists? 
+
+"Hi, I'm Jamir Kenneth Lagua. I'm graduating this August with a degree in BS Information Technology, and I'm right now in that in-between stage, done with school, but still unemployed and still trying to break through into tech the way I want to.
+
+Earlier this year I finished an internship as a Junior Fullstack Developer, where I worked on frontend components for ERP systems and did hands-on testing. I also picked up a few certifications along the way in networking, through Cisco and Certiport. 
+
+Since I learn about the cloud computing, I really got curious on the topic and I tried searching and learning what it can offer and how does it affect the tech industry and I learned that it is one of the most important aspect in the tech industry. Though I search about i dont have a formal training in the cloud although it is something I really looking forward to as my career and skills move forward.
+
+Learning and committing to whatever I set my mind to is something that's always been true about me, from finishing my capstone thesis to finishing my internship. So if I'm given a spot in this cohort, I don't think I'd be someone the program has to convince to show up and put in the work. I already know how to keep going. I just need the opportunity to apply it somewhere that actually gets me closer to being hired."
+
+2) Why are you excited to join the AWS re/Start training this coming August?
+
+"I'm genuinely excited about the chance to join AWS re/Start this August. Learning and committing to tech is something I'd describe as one of my traits, it's not something I'm just trying out, it's something I actually want to keep growing in.
+
+Joining this program would let me broaden my knowledge and apply what I already know on a deeper level, especially in cloud, which I haven't had any formal training in yet. I'm also drawn to how hands-on the program is, actual labs instead of just lectures, and working toward the AWS Certified Cloud Practitioner certification along the way.
+
+But honestly, what excites me most is what's on the other side of it. Being able to get hired, and actually contribute, not just for myself, but for the people around me too. For someone who's unemployed right now and trying to break into tech, this feels like exactly the kind of opportunity that could make that real."
